@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, {useState} from 'react'
 import './WeatherApp.css';
 import search_icon from '../Assests/search.png';
 import clear_icon from '../Assests/clear.png'
