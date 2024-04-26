@@ -1,6 +1,6 @@
-# Weather App
+### Weather App
 
-# Overview
+## Overview
 This is a simple weather app built using React.js. It fetches weather data from an API and displays it to the user.
 
 # Features
