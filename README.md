@@ -1,11 +1,11 @@
 # Weather App
-
+view the app here : https://whats-the-temp.netlify.app/
+ 
 # Overview
 This is a simple weather app built using React.js. It fetches weather data from an API and displays it to the user.
 
 # Features
-Current weather display
-5-day weather forecast
+Current weather like temperature , humidity , wind speed display
 Search for weather by city name
 Responsive design for mobile and desktop
 
